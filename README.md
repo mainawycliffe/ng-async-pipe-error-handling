@@ -1,6 +1,6 @@
 # Angular Async Pipe – How to Handle Errors
 
-This repo is for an accompanying post that can be found here.
+This repo is for an accompanying post that can be found here <https://theinfogrid.com/tech/developers/angular/angular-async-pipe-handle-errors/>.
 
 ## To run this demo
 
